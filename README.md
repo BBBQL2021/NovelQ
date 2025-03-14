@@ -18,6 +18,18 @@ NovelQ（摸鱼阅读器）是一个轻量级的电子书阅读软件，支持�
 - 支持自动滚动功能，解放双手
 - 支持章节导航，快速跳转
 
+## 软件截图
+
+<div align="center">
+  <img src="img/demo1.png" alt="NovelQ界面截图1" width="600" />
+  <p>图1：NovelQ阅读器主界面</p>
+</div>
+
+<div align="center">
+  <img src="img/demo2.png" alt="NovelQ界面截图2" width="600" />
+  <p>图2：NovelQ阅读设置界面</p>
+</div>
+
 ## 安装方法
 
 ### 方法一：从源码运行
